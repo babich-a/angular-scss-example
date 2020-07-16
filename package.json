@@ -21,10 +21,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "build": "node --max_old_space_size=8000 ./node_modules/@angular/cli/bin/ng build --prod"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.3",
