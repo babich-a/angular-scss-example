@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+$r: red;
+
+hello {
+  color: $r;
+}
+
+@use "../node_modules/devextreme/scss/bundles/dx.light.scss";
