@@ -23,8 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "node_modules/devextreme/scss/bundles/dx.common.scss"
+              "node_modules/devextreme/scss/bundles/dx.common.scss",
+              "src/styles.scss"
             ],
             "scripts": []
           },
