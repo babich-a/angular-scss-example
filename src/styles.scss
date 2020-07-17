@@ -1,0 +1,5 @@
+@use "../node_modules/devextreme/scss/widgets/generic/colors" with ($color: "light");
+@use "../node_modules/devextreme/scss/widgets/generic/sizes" with ($size: "default");
+
+@use "../node_modules/devextreme/scss/widgets/generic/widget";
+@use "../node_modules/devextreme/scss/widgets/generic/button";
